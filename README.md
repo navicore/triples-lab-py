@@ -6,6 +6,9 @@ Scratch Project to Explore Python rdflib
 ### Build and run
 
 ```console
-# haha
+python -m TriplesLab
 ```
 
+```console
+python -m unittest discover tests
+```
